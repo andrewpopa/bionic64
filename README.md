@@ -1,5 +1,5 @@
 # bionic64
-Packer bionic64 image for vagrant projects with `Ubuntu Server 18.04.3 LTS`
+Packer bionic64 image for vagrant projects
 
 # Pre-requisites
 - Install [Packer](https://www.packer.io/intro/getting-started/install.html)
